@@ -1,0 +1,76 @@
+body{
+    background-color: black;
+}
+
+#scnd{
+    border:5px solid white;
+    width: 50%;
+    margin-left: 25%;
+    
+    
+    
+    
+}
+
+#frstpg{
+    position:relative;
+    border:5px solid white;
+    width:50%;
+    left:25%;
+}
+
+.motivation{
+    margin-left: 25%;
+    height: 50%;
+    width: 50%;
+    margin-bottom: 25%;
+    margin-top: 25%;
+    }
+
+
+    .thrd{
+        color:white;
+        text-align: center;
+        font-family: "Libre Baskerville", serif;
+        font-weight: 400;
+        font-style: normal;
+        text-transform:  capitalize;
+        
+    }
+    
+    .frst{
+        color:white;
+        text-align: center;
+        font-family: "Libre Baskerville", serif;
+        font-weight: 400;
+        font-style: normal;
+        text-transform: uppercase;
+    }
+
+    .scnd{
+        color:white;
+        text-align: center;
+        font-family: "Libre Baskerville", serif;
+        font-weight: 400;
+        font-style: normal;
+        text-transform: capitalize
+    }
+
+
+    footer{
+        color: white;
+    }
+
+.navigation{
+    position: absolute;
+    right:20px;    
+}
+
+.navigation a{
+    text-decoration: none;
+    color: white;
+    background-color: darkgray;
+    padding: 5px;
+    border-radius: 100px;
+    margin-right: 10px;
+}
